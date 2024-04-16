@@ -1,0 +1,72 @@
+{
+    "Mouthguard": {
+        "description": "Head protection",
+        "type": "Gear",
+        "rarity": "Beginner"
+    },
+    "Robe": {
+        "description": "Martial Arts robe",
+        "type": "Gear",
+        "rarity": "Beginner"
+    },
+    "Chestplate": {
+        "description": "Protects chest but hinders mobility",
+        "type": "gear",
+        "rarity": "Advanced"
+    },
+    "Healing ointment": {
+        "description": "increase health to 100%",
+        "type": "Heals",
+        "rarity": "Master"
+    },
+    "Incense": {
+        "description": "Increases health by 25%",
+        "type": "Heals",
+        "rarity": "Master"
+    },
+    "Medicine": {
+        "description": "Increases health by 50%",
+        "type": "Heals",
+        "rarity": "Beginner"
+    },
+    "Steroids": {
+        "description": "Buff that enhances everything but damages health",
+        "type": "Buff",
+        "rarity": "Intermediate"
+    },
+    "Caffeine": {
+        "description": "Increases mobility by 25%",
+        "type": "Buff",
+        "rarity": "Intermediate"
+    },
+    "Bracers": {
+        "description": "Arm Protection",
+        "type": "Gear",
+        "rarity": "Advanced"
+    },
+    "Hand Wraps": {
+        "description": "Hand/Knuckle protection, aesthetic gear",
+        "type": "Gear",
+        "rarity": "Beginner"
+    },
+    "Shin Guards": {
+        "description": "Shin protection, Aesthetic gear",
+        "type": "Gear",
+        "rarity": "Advanced"
+    },
+    "Mastery Scroll": {
+        "description": "Enhances damage output by 25%",
+        "type": "Buff",
+        "rarity": "Intermediate"
+    },
+    "Hidden Technique Scroll": {
+        "description": "Enhances damage output by 50%",
+        "type": "Buff",
+        "rarity": "Advanced"
+    },
+    "Forbidden Scroll": {
+        "description": "Increases damage output by 80% but damages health by 20%",
+        "type": "Buff",
+        "rarity": "Advanced"
+    }
+}
